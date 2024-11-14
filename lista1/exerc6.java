@@ -25,6 +25,5 @@ public class exerc6 {
             System.out.printf("O valor de x2 é %.2f",(((-1*b)-Math.sqrt(delta))/2*a));
         }
 
-
     }
 }
